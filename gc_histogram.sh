@@ -3,10 +3,10 @@ my %bins;
 my $sum;
 while (<>) {chomp;
   my ($length, $gc) = split qr/\s+/;
+  #$length = 1;
   $sum += $length;
   $bins{sprintf("%.0f", $gc)} += $length;
 }
-for my $i (0..100){ 
-  my $f = sprintf "%.3f", ($bins{$i}  / $sum );
-  say $f < 0.005 ? 0 : $f 
+for my $i (0..99){ 
+  say sprintf "%.5f", ($bins{$i}  / $sum );
 } '

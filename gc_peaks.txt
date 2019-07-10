@@ -1,5 +1,5 @@
-acanthocheilonema_viteae.PRJEB1697.WBPS13 	31
-acrobeloides_nanus.PRJEB26554.WBPS13 	36
+acanthocheilonema_viteae.PRJEB1697.WBPS13 	31, 96
+acrobeloides_nanus.PRJEB26554.WBPS13 	36, 95
 ancylostoma_caninum.PRJNA72585.WBPS13 	44
 ancylostoma_ceylanicum.PRJNA231479.WBPS13 	44
 ancylostoma_ceylanicum.PRJNA72583.WBPS13 	45
@@ -10,11 +10,11 @@ anisakis_simplex.PRJEB496.WBPS13 	38
 ascaris_lumbricoides.PRJEB4950.WBPS13 	39
 ascaris_suum.PRJNA62057.WBPS13 	38
 ascaris_suum.PRJNA80881.WBPS13 	39
-brugia_malayi.PRJNA10729.WBPS13 	29
-brugia_pahangi.PRJEB497.WBPS13 	31
-brugia_timori.PRJEB4663.WBPS13 	32
+brugia_malayi.PRJNA10729.WBPS13 	29, 87
+brugia_pahangi.PRJEB497.WBPS13 	31, 97
+brugia_timori.PRJEB4663.WBPS13 	32, 85
 bursaphelenchus_xylophilus.PRJEA64437.WBPS13 	41
-caenorhabditis_angaria.PRJNA51225.WBPS13 	35, 98
+caenorhabditis_angaria.PRJNA51225.WBPS13 	35
 caenorhabditis_brenneri.PRJNA20035.WBPS13 	40
 caenorhabditis_briggsae.PRJNA10731.WBPS13 	38
 caenorhabditis_elegans.PRJNA13758.WBPS13 	36
@@ -34,16 +34,16 @@ dibothriocephalus_latus.PRJEB1206.WBPS13 	44
 dictyocaulus_viviparus.PRJEB5116.WBPS13 	35
 dictyocaulus_viviparus.PRJNA72587.WBPS13 	36
 diploscapter_coronatus.PRJDB3143.WBPS13 	38
-diploscapter_pachys.PRJNA280107.WBPS13 	38, 93
-dirofilaria_immitis.PRJEB1797.WBPS13 	30
+diploscapter_pachys.PRJNA280107.WBPS13 	38, 94
+dirofilaria_immitis.PRJEB1797.WBPS13 	30, 96
 ditylenchus_destructor.PRJNA312427.WBPS13 	38
-dracunculus_medinensis.PRJEB500.WBPS13 	31
+dracunculus_medinensis.PRJEB500.WBPS13 	31, 97
 echinococcus_canadensis.PRJEB8992.WBPS13 	42
 echinococcus_granulosus.PRJEB121.WBPS13 	42
 echinococcus_granulosus.PRJNA182977.WBPS13 	42
 echinococcus_multilocularis.PRJEB122.WBPS13 	43
 echinostoma_caproni.PRJEB1207.WBPS13 	43
-elaeophora_elaphi.PRJEB502.WBPS13 	32
+elaeophora_elaphi.PRJEB502.WBPS13 	32, 90
 enterobius_vermicularis.PRJEB503.WBPS13 	34
 fasciola_hepatica.PRJEB25283.WBPS13 	45
 fasciola_hepatica.PRJNA179522.WBPS13 	45
@@ -51,7 +51,7 @@ globodera_pallida.PRJEB123.WBPS13 	41
 globodera_rostochiensis.PRJEB13504.WBPS13 	43
 gongylonema_pulchrum.PRJEB505.WBPS13 	42
 gyrodactylus_salaris.PRJNA244375.WBPS13 	34
-haemonchus_contortus.PRJEB506.WBPS13 	
+haemonchus_contortus.PRJEB506.WBPS13 	44
 haemonchus_contortus.PRJNA205202.WBPS13 	43
 haemonchus_placei.PRJEB509.WBPS13 	44
 heligmosomoides_polygyrus.PRJEB1203.WBPS13 	46
@@ -63,8 +63,8 @@ hymenolepis_diminuta.PRJEB507.WBPS13 	36
 hymenolepis_microstoma.PRJEB124.WBPS13 	37
 hymenolepis_nana.PRJEB508.WBPS13 	38
 litomosoides_sigmodontis.PRJEB3075.WBPS13 	35
-loa_loa.PRJNA246086.WBPS13 	33
-loa_loa.PRJNA37757.WBPS13 	33
+loa_loa.PRJNA246086.WBPS13 	33, 96
+loa_loa.PRJNA37757.WBPS13 	33, 98
 macrostomum_lignano.PRJNA284736.WBPS13 	46
 macrostomum_lignano.PRJNA371498.WBPS13 	46
 meloidogyne_arenaria.PRJEB8714.WBPS13 	31
@@ -74,8 +74,8 @@ meloidogyne_enterolobii.PRJNA340324.WBPS13 	30
 meloidogyne_floridensis.PRJEB6016.WBPS13 	30
 meloidogyne_floridensis.PRJNA340324.WBPS13 	30
 meloidogyne_graminicola.PRJNA411966.WBPS13 	24
-meloidogyne_hapla.PRJNA29083.WBPS13 	28
-meloidogyne_incognita.PRJEB8714.WBPS13 	31
+meloidogyne_hapla.PRJNA29083.WBPS13 	28, 97
+meloidogyne_incognita.PRJEB8714.WBPS13 	31, 92
 meloidogyne_incognita.PRJNA340324.WBPS13 	30
 meloidogyne_javanica.PRJEB8714.WBPS13 	31
 meloidogyne_javanica.PRJNA340324.WBPS13 	30
@@ -85,17 +85,17 @@ necator_americanus.PRJNA72135.WBPS13 	42
 nippostrongylus_brasiliensis.PRJEB511.WBPS13 	44
 oesophagostomum_dentatum.PRJNA72579.WBPS13 	44
 onchocerca_flexuosa.PRJEB512.WBPS13 	31
-onchocerca_flexuosa.PRJNA230512.WBPS13 	32
+onchocerca_flexuosa.PRJNA230512.WBPS13 	32, 95
 onchocerca_ochengi.PRJEB1204.WBPS13 	31
-onchocerca_ochengi.PRJEB1465.WBPS13 	31
-onchocerca_volvulus.PRJEB513.WBPS13 	30
+onchocerca_ochengi.PRJEB1465.WBPS13 	31, 98
+onchocerca_volvulus.PRJEB513.WBPS13 	30, 94
 opisthorchis_viverrini.PRJNA222628.WBPS13 	45
 oscheius_tipulae.PRJEB15512.WBPS13 	45
 panagrellus_redivivus.PRJNA186477.WBPS13 	45
 parapristionchus_giblindavisi.PRJEB27334.WBPS13 	40
 parascaris_equorum.PRJEB514.WBPS13 	42
 parascaris_univalens.PRJNA386823.WBPS13 	40
-parastrongyloides_trichosuri.PRJEB515.WBPS13 	26, 77
+parastrongyloides_trichosuri.PRJEB515.WBPS13 	26, 76
 plectus_sambesii.PRJNA390260.WBPS13 	42
 pristionchus_arcanus.PRJEB27334.WBPS13 	43
 pristionchus_entomophagus.PRJEB27334.WBPS13 	44
@@ -104,7 +104,7 @@ pristionchus_fissidentatus.PRJEB27334.WBPS13 	43
 pristionchus_japonicus.PRJEB27334.WBPS13 	45
 pristionchus_maxplancki.PRJEB27334.WBPS13 	45
 pristionchus_mayeri.PRJEB27334.WBPS13 	43
-pristionchus_pacificus.PRJNA12644.WBPS13 	
+pristionchus_pacificus.PRJNA12644.WBPS13 	43
 protopolystoma_xenopodis.PRJEB1201.WBPS13 	39
 rhabditophanes_kr3021.PRJEB1297.WBPS13 	33
 romanomermis_culicivorax.PRJEB1358.WBPS13 	39
@@ -112,7 +112,7 @@ schistocephalus_solidus.PRJEB527.WBPS13 	44
 schistosoma_curassoni.PRJEB519.WBPS13 	35
 schistosoma_haematobium.PRJNA78265.WBPS13 	36
 schistosoma_japonicum.PRJEA34885.WBPS13 	36
-schistosoma_mansoni.PRJEA36577.WBPS13 	36
+schistosoma_mansoni.PRJEA36577.WBPS13 	36, 95
 schistosoma_margrebowiei.PRJEB522.WBPS13 	35
 schistosoma_mattheei.PRJEB523.WBPS13 	35
 schistosoma_rodhaini.PRJEB526.WBPS13 	35
@@ -124,10 +124,10 @@ steinernema_feltiae.PRJNA204661.WBPS13 	48
 steinernema_glaseri.PRJNA204943.WBPS13 	48
 steinernema_monticolum.PRJNA205067.WBPS13 	42
 steinernema_scapterisci.PRJNA204942.WBPS13 	49
-strongyloides_papillosus.PRJEB525.WBPS13 	26
-strongyloides_ratti.PRJEB125.WBPS13 	22
-strongyloides_stercoralis.PRJEB528.WBPS13 	23
-strongyloides_venezuelensis.PRJEB530.WBPS13 	26
+strongyloides_papillosus.PRJEB525.WBPS13 	26, 97
+strongyloides_ratti.PRJEB125.WBPS13 	22, 84
+strongyloides_stercoralis.PRJEB528.WBPS13 	23, 91
+strongyloides_venezuelensis.PRJEB530.WBPS13 	26, 91
 strongylus_vulgaris.PRJEB531.WBPS13 	39
 syphacia_muris.PRJEB524.WBPS13 	31
 taenia_asiatica.PRJEB532.WBPS13 	43
@@ -143,18 +143,18 @@ trichinella_britovi.PRJNA257433.WBPS13 	34
 trichinella_murrelli.PRJNA257433.WBPS13 	34
 trichinella_nativa.PRJNA179527.WBPS13 	33
 trichinella_nativa.PRJNA257433.WBPS13 	34
-trichinella_nelsoni.PRJNA257433.WBPS13 	34
+trichinella_nelsoni.PRJNA257433.WBPS13 	34, 93
 trichinella_papuae.PRJNA257433.WBPS13 	33
 trichinella_patagoniensis.PRJNA257433.WBPS13 	34
-trichinella_pseudospiralis.ISS13_PRJNA257433.WBPS13 	33
-trichinella_pseudospiralis.ISS141_PRJNA257433.WBPS13 	33
-trichinella_pseudospiralis.ISS176_PRJNA257433.WBPS13 	33
+trichinella_pseudospiralis.ISS13_PRJNA257433.WBPS13 	33, 97
+trichinella_pseudospiralis.ISS141_PRJNA257433.WBPS13 	33, 97
+trichinella_pseudospiralis.ISS176_PRJNA257433.WBPS13 	33, 97
 trichinella_pseudospiralis.ISS470_PRJNA257433.WBPS13 	33
-trichinella_pseudospiralis.ISS588_PRJNA257433.WBPS13 	33
+trichinella_pseudospiralis.ISS588_PRJNA257433.WBPS13 	33, 97
 trichinella_spiralis.PRJNA12603.WBPS13 	36
 trichinella_spiralis.PRJNA257433.WBPS13 	34
 trichinella_t6.PRJNA257433.WBPS13 	34
-trichinella_t8.PRJNA257433.WBPS13 	34
+trichinella_t8.PRJNA257433.WBPS13 	34, 97
 trichinella_t9.PRJNA257433.WBPS13 	34
 trichinella_zimbabwensis.PRJNA257433.WBPS13 	33
 trichobilharzia_regenti.PRJEB4662.WBPS13 	39
@@ -163,5 +163,5 @@ trichuris_suis.PRJNA179528.WBPS13 	44
 trichuris_suis.PRJNA208415.WBPS13 	44
 trichuris_suis.PRJNA208416.WBPS13 	44
 trichuris_trichiura.PRJEB535.WBPS13 	42
-wuchereria_bancrofti.PRJEB536.WBPS13 	32
+wuchereria_bancrofti.PRJEB536.WBPS13 	32, 95
 wuchereria_bancrofti.PRJNA275548.WBPS13 	32

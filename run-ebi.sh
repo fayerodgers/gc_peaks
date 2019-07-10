@@ -7,4 +7,4 @@ for f in $PARASITE_SCRATCH/jbrowse/WBPS13/JBrowseTools/*/*.genomic.fa ; do
   $root_dir/gc_histogram.sh $f \
    | tee $histogram_path \
    | python $root_dir/peaks.py
-done | tee $root_dir/results/gc_peaks.txt
+done | tee $root_dir/gc_peaks.txt
