@@ -3,7 +3,7 @@ my %bins;
 my $sum;
 while (<>) {chomp;
   my ($length, $gc) = split qr/\s+/;
-  #$length = 1;
+  $length = 1;
   $sum += $length;
   $bins{sprintf("%.0f", $gc)} += $length;
 }
