@@ -3,6 +3,6 @@ from scipy import signal
 import numpy as np
 import sys
 data = np.loadtxt(sys.stdin, dtype=np.float)
-peakind = signal.find_peaks_cwt(data, np.arange(1,100))
-str=np.array2string(peakind, separator = ", ", prefix="", suffix="")
-print str.replace("[", "").replace("]", "")
+peaks = signal.find_peaks_cwt(data, [5,5,5,10,10,10,20])
+#peaks, properties = signal.find_peaks(data)
+print( ", ".join([ str(x +1) for x in peaks]))
